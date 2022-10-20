@@ -1,0 +1,20 @@
+{
+  "name": "setting-up-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "rm -rf dist && tsc && node dist/sum.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-s01tan/setting-up-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-s01tan/setting-up-typescript/issues"
+  },
+  "homepage": "https://github.com/s-s01tan/setting-up-typescript#readme"
+}
